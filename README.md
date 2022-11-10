@@ -8,3 +8,4 @@
 
 4. Use data augmentation, cGAN, and cDCGAN to train a second FFN network.
 
+The highest accuracy is 0.72 after 100 epochs training.
