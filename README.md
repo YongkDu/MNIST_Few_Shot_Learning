@@ -1,10 +1,10 @@
 # MNIST_Few_Shot_Learning
 
-1. Train a FFN (fedforward neural network), such as fully connected network and CNN, with MNIST.
+1. Train a FFN (fedforward neural network), for example fully connected network, CNN, and ResNet, with MNIST dataset.
 
-2. Manually select one image from each class from the training set.
+2. Select one image from each class from the training set.
 
-3. Save the images and their logits from network 1.
+3. Save the images and their logits from the first nn.
 
 4. Use data augmentation and generative models to train a second FFN network.
 
